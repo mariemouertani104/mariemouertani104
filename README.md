@@ -14,6 +14,6 @@
 
   * <h3 align="left"> 🌐 Connect with me on </h3>
   <p align="left">
-<a href="https://www.linkedin.com/in/mariem-ouertani-2a0392a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MariemOuertani Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meriem-ouertani-2a1b592a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MariemOuertani Linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/meriem.ouerteni.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MariemOuertani Facebook" height="30" width="40" /></a>
 </p>
