@@ -9,8 +9,9 @@
 * 🎓 I'm an engineering student at **INSAT (National Institute of Applied Science and Technology)**.
 * 💻 My projects are primarily hosted on my GitHub profile.
 * 🌱 You can find my portfolio, encompassing the majority of my academic studies and association activities, [here](https://drive.google.com/drive/folders/1gIql9GV_Qb-YrKFeR004wtMiyqDqoY3us?usp=drive_link).
-* 📫 Feel free to reach me at [mariem.ouertani@insat.ucar.tn](mailto:mariem.ouertani@insat.ucar.tn).
 * 📝 For a detailed overview of my professional experience and skills, please see my [CV/Resume](https://drive.google.com/drive/folders/1pkaNlpPXSYQvQDfgberzZKxDNGxQ0tU).
+* 🔗 Discover more about me and my work on my [personal website]( https://meriemouertani.vercel.app/ ).
+* 📫 Feel free to reach me at [mariem.ouertani@insat.ucar.tn](mailto:mariem.ouertani@insat.ucar.tn).
 
   * <h3 align="left"> 🌐 Connect with me on </h3>
   <p align="left">
