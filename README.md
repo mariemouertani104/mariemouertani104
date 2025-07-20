@@ -65,7 +65,7 @@
   <a href="https://www.sap.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemouertani104&show_icons=true&locale=en&layout=compact" alt="mariemouertani104" />
 </p>
 
