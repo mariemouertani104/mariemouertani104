@@ -1,14 +1,18 @@
 <p align="center">
   <h1>Hi 👋, I'm Mariem Ouertani ✨ </h1>
 </p>
+<p align="center">
+  <h3>An ICT & Software engineering student, Web developer, AI enthusiast, Cloud & DevOps learner</h3>
+</p>
 <p align="center" dir="auto">
   <animated-image data-catalyst=""><a href="https://rishavchanda.io" rel="nofollow" data-target="animated-image.originalLink">
     <img src="https://github.com/Eya-Laouini/Eya-Laouini/raw/main/programmer.gif" alt="Header Image" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </a>
 
 </p>
-<p align="center">
-  <h3>An ICT & Software engineering student, Web developer, AI enthusiast, Cloud & DevOps learner</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mariemouertani104&label=Profile%20views&color=0e75b6&style=flat" alt="mariemouertani104" />
 </p>
 
 * 🎓 I'm an engineering student at **INSAT (National Institute of Applied Science and Technology)**.
