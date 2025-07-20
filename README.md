@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi 👋, I'm Mariem Ouertani</h1>
+  <h1>Hi 👋, I'm Mariem Ouertani ✨ </h1>
 </p>
 <p align="center" dir="auto">
   <animated-image data-catalyst=""><a href="https://rishavchanda.io" rel="nofollow" data-target="animated-image.originalLink">
