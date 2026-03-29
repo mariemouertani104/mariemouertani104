@@ -25,7 +25,7 @@
 * 📝 Check my detailed [CV/Resume](https://meriemouertani.vercel.app/Mariem-Ouertani-Resume%20(1).pdf).  
 * 🔗 Portfolio: [Projects & Academic Work](https://drive.google.com/drive/folders/1qR106V_O8rXrkft0UR04ymitMivaQoqY)  
 * 📫 Contact: [mariem.ouertani@insat.ucar.tn](mailto:mariem.ouertani@insat.ucar.tn)  
-* 🌐 Personal Website: [https://meriemouertani.vercel.app/](https://mariemouertani-portfolio.vercel.app/)
+* 🌐 Personal Website: [https://mariemouertani-portfolio.vercel.app/](https://mariemouertani-portfolio.vercel.app/)
 ---
 
 ### Certifications
